@@ -74,5 +74,7 @@ Once installed and built, you need to create database and configure it in .env f
 
 ![creditor creation](/screenshots/4 creation of creditors.png?raw=true "creditor creation")
 
+![login purchase orders](https://raw.github.com/inforkgodara/purchase-orders/master/screenshots/1 login purchase orders.png?raw=true "Login")
+
 
 

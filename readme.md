@@ -66,15 +66,7 @@ Once installed and built, you need to create database and configure it in .env f
 
 ## Screenshots
 
-![login purchase orders](/screenshots/1 login purchase orders.png?raw=true "Login")
-
-![list view of branch modules](/screenshots/1 2 list view of branch modules.png?raw=true "List view")
-
-![purchase order creation](/screenshots/3 creation of purchase order.png?raw=true "Purchase Order")
-
-![creditor creation](/screenshots/4 creation of creditors.png?raw=true "creditor creation")
-
-![login purchase orders](https://raw.github.com/inforkgodara/purchase-orders/master/screenshots/1 login purchase orders.png?raw=true "Login")
+![login purchase orders](https://raw.github.com/inforkgodara/purchase-orders/master/screenshots/1-purchase-orders-login.png?raw=true "Login")
 
 
 

@@ -57,7 +57,7 @@ Once installed and built, you need to create database and configure it in .env f
 
 
 ## Build tool
-- PNM - Package Manager
+- NPM - Package Manager
 - webpack - Module Bundler
 - git - Source Control
 

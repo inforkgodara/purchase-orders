@@ -309,7 +309,7 @@
                     <li class="treeview">
                         <a href="#">
                             <i class="fa fa-user"></i>
-                            <span>Nominal Accounts</span>
+                            <span>Parties</span>
                             <span class="pull-right-container">
                                 <span class="label label-primary pull-right">2</span>
                             </span>

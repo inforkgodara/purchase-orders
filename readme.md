@@ -4,11 +4,11 @@ Purchase Orders is a web based application that allows users in a small business
 
 ## Setup on local machine
 
-I have used homestead environment to develop this application. If you would like to run this app on your local development server, you must install NPM and Php Composer to build the project.
+I have used homestead environment to develop this application. If you would like to run this app on your local development server, you must install NPM and PHP Composer to build the project.
 
-Once you have installed NPM and Composer, cd into the project directory, and run 'composer install' to get PHP depedencies and 'npm install' and then 'npm run dev' to build this project.
+Once you have installed NPM and Composer, cd into the project directory, and run 'composer install' to get PHP dependencies and 'npm install' and then 'npm run dev' to build this project.
 
-Once installed and built, you need to create database and configure it in .env file. you can access the project at http://localhost:8080. As the client does not currently have a user creation endpoint, 'php artisan migrate:fresh --seed' to migrate database tables and seed the database with demo users and data.
+Once installed and built, you need to create database and configure it in .env file. You can access the project at http://localhost:8080. As the client does not currently have a user creation endpoint, 'php artisan migrate:fresh --seed' to migrate database tables and seed the database with demo users and data.
 
 ## Used technology
 - HTML5
@@ -66,7 +66,14 @@ Once installed and built, you need to create database and configure it in .env f
 
 ## Screenshots
 
-![login purchase orders](https://raw.github.com/inforkgodara/purchase-orders/master/screenshots/1-purchase-orders-login.png?raw=true "Login")
+### Login purchase orders
+![login purchase orders](https://raw.github.com/inforkgodara/purchase-orders/master/screenshots/1-login-purchase-orders.png?raw=true "login")
 
+### Branch module list view
+![list of branch module](https://raw.github.com/inforkgodara/purchase-orders/master/screenshots/2-branch-module-list-view.png?raw=true "list view")
 
+### Order creation
+![order creation](https://raw.github.com/inforkgodara/purchase-orders/master/screenshots/3-order-creation.png?raw=true "purchase order creation")
 
+### Creditor creation
+![creditor creation](https://raw.github.com/inforkgodara/purchase-orders/master/screenshots/4-creditor-creation.png?raw=true "creditor creation")

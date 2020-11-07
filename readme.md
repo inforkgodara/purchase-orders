@@ -77,3 +77,5 @@ Once installed and built, you need to create database and configure it in .env f
 
 ### Creditor creation
 ![creditor creation](https://raw.github.com/inforkgodara/purchase-orders/master/screenshots/4-creditor-creation.png?raw=true "creditor creation")
+
+Note: Kindly check before using it cause getting security vulnerability warnings from github.
